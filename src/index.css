@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileExtraBlack"),
+    url("./assets/fonts/IRANYekanMobileExtraBlack.ttf");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileExtraBold"),
+    url("./assets/fonts/IRANYekanMobileExtraBold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileBlack"),
+    url("./assets/fonts/IRANYekanMobileBlack.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileBold"),
+    url("./assets/fonts/IRANYekanMobileBold.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileMedium"),
+    url("./assets/fonts/IRANYekanMobileMedium.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "IRANYekanMobile";
+  src: local("IRANYekanMobileRegular"),
+    url("./assets/fonts/IRANYekanMobileRegular.ttf");
+  font-weight: 300;
+}
+
+* {
+  font-family: IRANYekanMobile;
+  font-weight: 300;
+}
